@@ -15,3 +15,7 @@ int main(){
     cout<<c<<endl;
     return 0;
 }
+int mult(int a,int b )
+{
+    return (a*b);
+}
