@@ -15,6 +15,7 @@ int main(){
     cout<<c<<endl;
     return 0;
 }
+//your program is wrong
 int mult(int a,int b )
 {
     return (a*b);
