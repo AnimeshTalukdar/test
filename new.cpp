@@ -16,6 +16,7 @@ int main(){
     return 0;
 }
 //your program is wrong
+//sorry it was not wrong 
 int mult(int a,int b )
 {
     return (a*b);
